@@ -1,25 +1,25 @@
 # Alura Plus
-Seja bem-vindo ao meu projeto de prática em HTML e CSS, junto a Alura. 
-![Capa do site da Alura Plus](https://github.com/mitsuyoshijunior/alura-plus-pratica/assets/128213637/c7436e1c-e4a2-49af-9983-69ab643aebf9)
 
-## Ferramentas utilizadas
+Welcome! This is a practice project built with HTML and CSS as part of my studies at Alura.
 
-* HTML
-* CSS
-* FlexBox
+![Alura Plus Website Cover](https://github.com/mitsuyoshijunior/alura-plus-pratica/assets/128213637/c7436e1c-e4a2-49af-9983-69ab643aebf9)
 
-## Objetivo do projeto
+## 🔧 Technologies Used
 
-O projeto tem como objetivo melhorar, otimizar e qualificar habilidades em HTML e CSS.
+- HTML
+- CSS
+- Flexbox
 
-## Acesso ao projeto
+## 🎯 Project Goal
 
-https://alura-plus-pratica-q0ris25yt-mitsuyoshijunior.vercel.app/
+The main goal of this project is to improve and strengthen my skills in HTML and CSS through hands-on practice.
 
-## Feito por
+## 🌐 Live Demo
 
-Mitsuyoshi Nakamura
+You can access the live version here:  
+[https://alura-plus-pratica-q0ris25yt-mitsuyoshijunior.vercel.app/](https://alura-plus-pratica-q0ris25yt-mitsuyoshijunior.vercel.app/)
 
-### Linkedin: 
+## 👨‍💻 Developed by
 
-https://www.linkedin.com/in/mitsuyoshijunior/
+**Mitsuyoshi Nakamura**  
+[LinkedIn Profile](https://www.linkedin.com/in/mitsuyoshijunior/)
